@@ -27,3 +27,7 @@ php artisan queue:table
 ```
 php artisan migrate
 ```
+
+```
+fonte: https://www.honeybadger.io/blog/laravel-queues-deep-dive/
+```
