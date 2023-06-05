@@ -31,3 +31,7 @@ php artisan migrate
 ```
 fonte: https://www.honeybadger.io/blog/laravel-queues-deep-dive/
 ```
+
+```
+fonte: https://www.phind.com/search?cache=1e42f202-0667-4c0b-a034-8703d72f7459&init=true
+```
